@@ -5,7 +5,7 @@
 - [Active Directory Home Lab](https://github.com/moscato-dev)
 - [Recipe Book Website](https://moscato-dev.github.io/odin-recipes/)
 
-<h2>Certifications</h2>
+<h2>📄 Certifications</h2>
 
 - [Google IT Support Professional](https://coursera.org/share/84831b43f6d4a2ad91303c44c6457c9f)
 
