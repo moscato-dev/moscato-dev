@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/moscato-dev)
+- [Active Directory Home Lab](https://github.com/moscato-dev/active-directory-homelab/tree/main)
 - [Recipe Book Website](https://moscato-dev.github.io/odin-recipes/)
 
 <h2>📄 Certifications</h2>
